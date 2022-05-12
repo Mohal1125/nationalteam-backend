@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "627bbe856382a3a82232d7be"
+  },
+  "firstName": "Anna",
+  "lastName": "Berger",
+  "club": "FC Chelsea",
+  "position": "Goal keeper",
+  "yearOfBirth": 1990
+},{
+  "_id": {
+    "$oid": "627bc0e66382a3a82232d7bf"
+  },
+  "firstName": "Alexandra",
+  "lastName": "Popp",
+  "club": "FVL Wolfsburg",
+  "position": "Striker",
+  "yearOfBirth": 1991
+}]
